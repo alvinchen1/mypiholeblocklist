@@ -1,3 +1,4 @@
+(\.|^)stake\.us$
 (\.|^)drawbut\.com$
 (\.|^)amx1\.net$
 (\.|^)content-loader\.com$
@@ -24,11 +25,7 @@
 (\.|^)slotomo\.com$
 (\.|^)pidugi\.com$
 (\.|^)revaitomy\.co\.in$
-(\.|^)drussgaming$
 (\.|^)drussgaming\.com$
-(\.|^)nexuspcgames$
-(\.|^)wherewindsmeetgame$
-(\.|^)lonestarcasino$
 (\.|^)gryphline\.com$
 (\.|^)mybookie\.ag$
 (\.|^)serasend\.com$
@@ -42,14 +39,10 @@
 (\.|^)omg\.adult$
 (\.|^)northadblock\.com$
 (\.|^)go\.arminius\.io$
-(\.|^)jerkmate$
-(\.|^)jerkmate\.com$
-(\.|^)playafterdark$
 (\.|^)chatmate\.tv$
 (\.|^)playlg\.com$
 (\.|^)startrekfleetcommand\.com$
-(\.|^)www\.opera\.com$
-(^|\.)stake\.us$
-(\.|^)to\.trakzon\.com$
+(\.|^)opera\.com$
+(\.|^)trakzon\.com$
 (\.|^)adam4adamlive\.com$
 (\.|^)adam4adam\.tv$
