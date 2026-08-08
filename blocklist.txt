@@ -49,7 +49,7 @@
 (\.|^)playlg\.com$
 (\.|^)startrekfleetcommand\.com$
 (\.|^)www\.opera\.com$
-(\.|^)stake\.us$
+(^|\.)stake\.us$
 (\.|^)to\.trakzon\.com$
 (\.|^)adam4adamlive\.com$
 (\.|^)adam4adam\.tv$
