@@ -53,5 +53,4 @@ viafoura.co
 wherewindsmeetgame.com
 www.betonline.ag
 www.opera.com
-res.ar
-test.test
+www.alvinchen.test
